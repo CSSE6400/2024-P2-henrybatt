@@ -1,0 +1,4 @@
+FLASK_APP=todo
+FLASK_ENV=development
+FLASK_RUN_PORT=6400
+FLASK_DEBUG=true
